@@ -33,9 +33,7 @@ const homecard = () => {
                 </p>
               </div>
               <div className='card-action'>
-                <span>
-                    <a href="/">Linked IN</a><a href="/">Github</a><a href="/">Resume</a>
-                </span>
+                    <a href="https://www.linkedin.com/in/justin-sykes-csm-cspo-36819658/">Linked IN</a><a href="https://github.com/204039643">Github</a><a href="https://docs.google.com/document/d/1PZ16uxr2sGIrMMszYKknz9D2R-Q3Y4qD0JsLetXUahQ/edit?usp=sharing">Resume</a>
               </div>
             </div>
           </div>
