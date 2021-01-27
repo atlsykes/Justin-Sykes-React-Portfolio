@@ -1,16 +1,12 @@
 import React from 'react';
-import Navbar from '../../components/navbar/navbar';
-import Homecard from '../../components/card/homecard'
-import Footer from '../../components/footer/footer'
+import Homecard from '../../components/card/home-card'
 
-const Home = () => {
+const home = () => {
     return (
         <div>
-            <Navbar/>
-            <Homecard/>
-            <Footer/>
+            <Homecard />
         </div>
     );
 };
 
-export default Home;
+export default home;
