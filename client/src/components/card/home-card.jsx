@@ -15,7 +15,7 @@ const homecard = () => {
           <div className='card'>
             <div className='card-image'>
               <img id="home-image" className="z-depth-3"
-                src='../Assets/Images/IMG_1428_GC_2018.png'
+                src='./Assets/Images/IMG_1428_GC_2018.png'
                 alt='sykes headshot w/son'
               />
               <div className='card-content'>
