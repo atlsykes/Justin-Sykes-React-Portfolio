@@ -15,7 +15,7 @@ const portfoliocard = (props) => {
           <p>{props.description}</p>
         </div>
         <div className="card-action">
-          <a href={props.link}>Project Link</a>
+          <a href={props.link}>Github Repo</a>
         </div>
       </div>
     </div>

@@ -9,7 +9,7 @@ const portfolio = () => {
       <div class='row'>
         <div class='col s3'>
           <Portfoliocard
-            key={projects[0].key}
+            key={projects[0].id}
             title={projects[0].title}
             image={projects[0].image}
             description={projects[0].description}
@@ -17,8 +17,8 @@ const portfolio = () => {
           />
         </div>
         <div class='col s3'>
-        <Portfoliocard
-            key={projects[0].key}
+          <Portfoliocard
+            key={projects[0].id}
             title={projects[0].title}
             image={projects[0].image}
             description={projects[0].description}
@@ -26,8 +26,8 @@ const portfolio = () => {
           />
         </div>
         <div class='col s3'>
-        <Portfoliocard
-            key={projects[0].key}
+          <Portfoliocard
+            key={projects[0].id}
             title={projects[0].title}
             image={projects[0].image}
             description={projects[0].description}
@@ -37,8 +37,8 @@ const portfolio = () => {
       </div>
       <div class='row'>
         <div class='col s3'>
-        <Portfoliocard
-            key={projects[0].key}
+          <Portfoliocard
+            key={projects[0].id}
             title={projects[0].title}
             image={projects[0].image}
             description={projects[0].description}
@@ -46,8 +46,8 @@ const portfolio = () => {
           />
         </div>
         <div class='col s3'>
-        <Portfoliocard
-            key={projects[0].key}
+          <Portfoliocard
+            key={projects[0].id}
             title={projects[0].title}
             image={projects[0].image}
             description={projects[0].description}
@@ -55,8 +55,8 @@ const portfolio = () => {
           />
         </div>
         <div class='col s3'>
-        <Portfoliocard
-            key={projects[0].key}
+          <Portfoliocard
+            key={projects[0].id}
             title={projects[0].title}
             image={projects[0].image}
             description={projects[0].description}
