@@ -3,7 +3,7 @@ import Contactcard from '../../components/card/contact-card'
 
 const contact = () => {
   return (
-    <div className="container">
+    <div className="container z-depth-3">
       <Contactcard/>
     </div>
   )

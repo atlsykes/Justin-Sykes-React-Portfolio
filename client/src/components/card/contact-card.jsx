@@ -3,24 +3,42 @@ import React from 'react'
 const Contactcard = () => {
   return (
     <div>
-      <div classNameName='container' id='contact-form'>
+      <br />
+      <div id='contact-form'>
+        <div className='collection'>
+          <h1>Contact</h1>
+        </div>
+        <br />
         <div className='row'>
-          <form className='col s8'>
-            <div className='input-field col s6'>
+          <form className='col s11'>
+            <h6>Full Name</h6>
+            <div className='input-field col s11'>
               <i className='material-icons prefix'>account_circle</i>
               <input id='icon_prefix' type='text' className='validate' />
-              <label for='icon_prefix'>Name</label>
-              <div className='input-field col s6'>
+              <h6>Email</h6>
+              <div className='input-field col s11'>
                 <i className='material-icons prefix'>email</i>
-                <input id='icon_telephone' type='tel' className='validate' />
-                <label for='icon_telephone'>Email</label>
-                <div class='input-field col s6'>
-                  <i class='material-icons prefix'>mode_edit</i>
+                <input id='icon_email' type='email' className='validate' />
+                <h6>Message</h6>
+                <div className='input-field col s12'>
+                  <i className='material-icons prefix'>mode_edit</i>
                   <textarea
                     id='icon_prefix2'
-                    class='materialize-textarea'
+                    className='materialize-textarea'
                   ></textarea>
-                  <label for='icon_prefix2'>Message</label>
+                  <br />
+                  <br />
+                  <div className='submit-button'>
+                    <button
+                      className='btn waves-effect waves-light'
+                      type='submit'
+                      name='action'
+                      id='submit-button'
+                    >
+                      Submit
+                      <i className='material-icons right'>send</i>
+                    </button>
+                  </div>
                 </div>
               </div>
             </div>

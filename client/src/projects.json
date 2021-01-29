@@ -1,11 +1,12 @@
+
 [
   {
     "id": 1,
-    "title": "Sponge",
+    "title": "Track Finder",
     "image":
-      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "description": "Fry Cook",
-    "link": "https://204039643.github.io/Justin-Sykes-Portfolio/Assets/Images/Weather-dashboard-screenshot.png"
+      "../../Assets/Images/Tracker-Finder-app.png",
+    "description": "Fullstack web app that allows runners to locate, look up availability, edit, add, and delete running tracks in their city. ",
+    "link": "https://github.com/204039643/Track-Finder-App"
   },
   {
     "id": 2,
