@@ -1,4 +1,5 @@
 import React from 'react'
+import MyPic from '../../Assets/Images/IMG_1428_GC_2018.png'
 
 const homecard = () => {
   return (
@@ -17,7 +18,7 @@ const homecard = () => {
               <img
                 id='home-image'
                 className='z-depth-3'
-                src='./Assets/Images/IMG_1428_GC_2018.png'
+                src={MyPic}
                 alt='sykes headshot w/son'
               />
               <div className='card-content'>

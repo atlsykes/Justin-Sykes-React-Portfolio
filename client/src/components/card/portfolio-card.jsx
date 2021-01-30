@@ -1,5 +1,4 @@
 import React from 'react';
-import image from '../../Assets/Images/Tracker-Finder-app.png'
 
 const portfoliocard = (props) => {
     return (
@@ -8,7 +7,7 @@ const portfoliocard = (props) => {
     <div className="col s12 m12">
       <div className="card">
         <div className="card-image">
-          <img src={require(props.image)} alt="app screenshot"/>
+          <img src={props.image} alt="app screenshot"/>
           <span className="card-title">{props.title}</span>
         </div>
         <div className="card-content">

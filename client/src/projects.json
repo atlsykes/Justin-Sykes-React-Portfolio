@@ -10,39 +10,39 @@
   },
   {
     "id": 2,
-    "title": "Sponge",
+    "title": "Workday Scheduler",
     "image":
-      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "description": "Fry Cook",
-    "link": "A Pineapple Under the Sea"
+      "../../Assets/Images/my-work-day-scheduler-screenshot1.png",
+    "description": "This is my work day scheduler that allows me to store events, by the hour, for a single day. ",
+    "link": "https://github.com/204039643/my-work-day-scheduler"
   },  {
     "id": 3,
-    "title": "Sponge",
+    "title": "Senior Travel Covid Care",
     "image":
-      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "description": "Fry Cook",
-    "link": "A Pineapple Under the Sea"
+      "../../Assets/Images/senior-travel-covid-care-app-screenshot1.png",
+    "description": "This mobile-first app allows users are able to search for their city and state, physician type, preferred physician gender, and acceptable Covid-risk level for their state.",
+    "link": "https://github.com/204039643/Senior-Travel-Covid-Care"
   },  {
     "id": 4,
-    "title": "Sponge",
+    "title": "Code Quiz",
     "image":
-      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "description": "Fry Cook",
-    "link": "A Pineapple Under the Sea"
+      "",
+    "description": "This is a timed quiz that has 5 questions. Once user clicks 'start', all questions are dynamically created through DOM manipulation. Each question has 4 responses that are presented as buttons below the question.",
+    "link": "https://github.com/204039643/JS-Code-Quiz"
   },  {
     "id": 5,
-    "title": "Sponge",
+    "title": "Weather Dashboard",
     "image":
-      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "description": "Fry Cook",
-    "link": "A Pineapple Under the Sea"
+      "",
+    "description": "This is a weather dashboard that displays both the current weather and the 5 day forecast for a selected city.",
+    "link": "https://github.com/204039643/a-weather-dashboard"
   },  {
     "id": 6,
-    "title": "Sponge",
+    "title": "Burger App",
     "image":
-      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "description": "Fry Cook",
-    "link": "A Pineapple Under the Sea"
+      "",
+    "description": "A fullstack web application that allows users to track burgers that available in a list and then move them to another (devoured) once they are eaten.",
+    "link": "https://github.com/204039643/burger"
   }
 
 ]
