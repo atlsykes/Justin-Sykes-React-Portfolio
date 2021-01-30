@@ -6,9 +6,9 @@ const homecard = () => {
     <div className='container'>
       <div className='row'>
         <div className='col s12 m7'>
-          <p className='z-depth-5'>
+          <div className='z-depth-5'>
             <h2>About Me</h2>
-          </p>
+          </div>
         </div>
       </div>
       <div className='row'>
