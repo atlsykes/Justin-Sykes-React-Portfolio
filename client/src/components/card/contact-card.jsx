@@ -10,7 +10,7 @@ const Contactcard = () => {
         </div>
         <br />
         <div className='row'>
-          <form className='col s11'>
+          <form className='col s11' action="https://formspree.io/f/xaylkwgy" method="POST">
             <h6>Full Name</h6>
             <div className='input-field col s11'>
               <i className='material-icons prefix'>account_circle</i>
