@@ -2,7 +2,7 @@
 
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-![App screenshot](client/src/Assets/Images/react-portfolio-screenshot.png)
+![App screenshot](./src/Assets/Images/react-portfolio-screenshot.png)
 
 React web application that displays my profile and 6 modern web apps in a portfolio. Materialize css is used for styling with gh-pages being used for hosting. Users can contact me via email using the contact form. This app is also fully mobile responsive.
     
