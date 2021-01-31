@@ -14,17 +14,17 @@ const Contactcard = () => {
             <h6>Full Name</h6>
             <div className='input-field col s11'>
               <i className='material-icons prefix'>account_circle</i>
-              <input id='icon_prefix' type='text' className='validate' />
+              <input id='icon_prefix' type='text' className='validate' name="full-name"/>
               <h6>Email</h6>
               <div className='input-field col s11'>
                 <i className='material-icons prefix'>email</i>
-                <input id='icon_email' type='email' className='validate' />
+                <input id='icon_email' type='email' className='validate' name='email' />
                 <h6>Message</h6>
                 <div className='input-field col s12'>
                   <i className='material-icons prefix'>mode_edit</i>
                   <textarea
                     id='icon_prefix2'
-                    className='materialize-textarea'
+                    className='materialize-textarea' name='message'
                   ></textarea>
                   <br />
                   <br />
