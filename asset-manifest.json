@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Justin-Sykes-React-Portfolio/static/css/main.829c6f8f.chunk.css",
+    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.68513437.chunk.js",
+    "main.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.68513437.chunk.js.map",
+    "runtime-main.js": "/Justin-Sykes-React-Portfolio/static/js/runtime-main.d2ed1f6a.js",
+    "runtime-main.js.map": "/Justin-Sykes-React-Portfolio/static/js/runtime-main.d2ed1f6a.js.map",
+    "static/js/2.8b7ee395.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/2.8b7ee395.chunk.js",
+    "static/js/2.8b7ee395.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/2.8b7ee395.chunk.js.map",
+    "static/js/3.ee5e8b36.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/3.ee5e8b36.chunk.js",
+    "static/js/3.ee5e8b36.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/3.ee5e8b36.chunk.js.map",
+    "index.html": "/Justin-Sykes-React-Portfolio/index.html",
+    "static/css/main.829c6f8f.chunk.css.map": "/Justin-Sykes-React-Portfolio/static/css/main.829c6f8f.chunk.css.map",
+    "static/js/2.8b7ee395.chunk.js.LICENSE.txt": "/Justin-Sykes-React-Portfolio/static/js/2.8b7ee395.chunk.js.LICENSE.txt",
+    "static/media/IMG_1428_GC_2018.9416838d.png": "/Justin-Sykes-React-Portfolio/static/media/IMG_1428_GC_2018.9416838d.png",
+    "static/media/JS-code-quiz-screenshot1.65cee605.png": "/Justin-Sykes-React-Portfolio/static/media/JS-code-quiz-screenshot1.65cee605.png",
+    "static/media/Track-finder-screenshot.a28e1367.png": "/Justin-Sykes-React-Portfolio/static/media/Track-finder-screenshot.a28e1367.png",
+    "static/media/Weather-dashboard-screenshot.b1619909.png": "/Justin-Sykes-React-Portfolio/static/media/Weather-dashboard-screenshot.b1619909.png",
+    "static/media/burger-app-screenshot1.1466f106.png": "/Justin-Sykes-React-Portfolio/static/media/burger-app-screenshot1.1466f106.png",
+    "static/media/index.css": "/Justin-Sykes-React-Portfolio/static/media/glitter-lights-spots-dots-background-2560x1440.9c6f93f6.jpg",
+    "static/media/my-work-day-scheduler-screenshot1.85f09350.png": "/Justin-Sykes-React-Portfolio/static/media/my-work-day-scheduler-screenshot1.85f09350.png",
+    "static/media/senior-travel-covid-care-app-screenshot1.f2ded34c.png": "/Justin-Sykes-React-Portfolio/static/media/senior-travel-covid-care-app-screenshot1.f2ded34c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2ed1f6a.js",
+    "static/js/2.8b7ee395.chunk.js",
+    "static/css/main.829c6f8f.chunk.css",
+    "static/js/main.68513437.chunk.js"
+  ]
+}
