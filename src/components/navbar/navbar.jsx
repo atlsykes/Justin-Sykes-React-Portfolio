@@ -18,7 +18,6 @@ const Navbar = () => {
             <i className='material-icons'>menu</i>
           </a>
           <ul id='mobile-one' className='left hide-on-med-and-down'>
-            {/* <ul class="sidenav" id="mobile-demo"> */}
             <li>
               <a href='mailto:atlsykes1@att.net'>
                 <em>atlsykes1@att.net</em>
@@ -48,39 +47,34 @@ const Navbar = () => {
               </NavLink>
             </li>
           </ul>
-          
         </div>
       </nav>
       <ul id='mobile-two' className='sidenav'>
-            <li>
-              <a href='mailto:atlsykes1@att.net'>
-                <em>atlsykes1@att.net</em>
-              </a>
-            </li>
-            <li>
-              <NavLink
-                to='/portfolio'
-                className='nav-link'
-                activeClassName='active'
-              >
-                Portfolio
-              </NavLink>
-            </li>
-            <li>
-              <NavLink
-                to='/contact'
-                className='nav-link'
-                activeClassName='active'
-              >
-                Contact
-              </NavLink>
-            </li>
-            <li>
-              <NavLink to='/home' className='nav-link' activeClassName='active'>
-                About Me
-              </NavLink>
-            </li>
-          </ul>
+        <li>
+          <a href='mailto:atlsykes1@att.net'>
+            <em>atlsykes1@att.net</em>
+          </a>
+        </li>
+        <li>
+          <NavLink
+            to='/portfolio'
+            className='nav-link'
+            activeClassName='active'
+          >
+            Portfolio
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to='/contact' className='nav-link' activeClassName='active'>
+            Contact
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to='/home' className='nav-link' activeClassName='active'>
+            About Me
+          </NavLink>
+        </li>
+      </ul>
     </div>
   )
 }

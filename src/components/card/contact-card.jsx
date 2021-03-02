@@ -10,7 +10,6 @@ const Contactcard = () => {
 
   return (
     <div>
-      <br />
       <div id='contact-form'>
         <div className='collection'>
           <h1>Contact</h1>
@@ -18,12 +17,12 @@ const Contactcard = () => {
         <br />
         <div className='row'>
           <form
-            className='col s11'
+            className='col s12'
             action='https://formspree.io/f/xaylkwgy'
             method='POST'
           >
             <h6>Full Name</h6>
-            <div className='input-field col s11'>
+            <div className='input-field'>
               <i className='material-icons prefix'>account_circle</i>
               <input
                 id='fullname'
@@ -33,7 +32,7 @@ const Contactcard = () => {
                 required
               />
               <h6>Email</h6>
-              <div className='input-field col s11'>
+              <div className='input-field'>
                 <i className='material-icons prefix'>email</i>
                 <input
                   id='icon_email'
@@ -43,7 +42,7 @@ const Contactcard = () => {
                   required
                 />
                 <h6>Message</h6>
-                <div className='input-field col s12'>
+                <div className='input-field'>
                   <i className='material-icons prefix'>mode_edit</i>
                   <textarea
                     id='icon_prefix2'
