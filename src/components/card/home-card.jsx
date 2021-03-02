@@ -1,5 +1,12 @@
 import React from 'react'
 import MyPic from '../../Assets/Images/IMG_1428_GC_2018.png'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import './cards.css'
+import {
+  faGithub,
+  faGoogleDrive,
+  faLinkedin
+} from '@fortawesome/free-brands-svg-icons'
 
 const homecard = () => {
   return (
@@ -12,7 +19,7 @@ const homecard = () => {
         </div>
       </div>
       <div className='row'>
-        <div className='col s12 m7'>
+        <div className='col'>
           <div className='card'>
             <div className='card-image'>
               <img
@@ -30,9 +37,9 @@ const homecard = () => {
                   and directed over 13 new product introduction programs that
                   resulted in a combined customer value of $16.5MM, internal
                   productivity savings of $7MM, and business growth value of
-                  $3.2MM. I'm currently expanding my toolbox of software
-                  development skills via enrollment in the Georgia Tech Full
-                  Stack Coding Boot Camp.
+                  $3.2MM. I've recently expanded my toolbox of software
+                  development skills via enrollment in the Georgia Tech
+                  Full-Stack Coding Boot Camp (MERN development stack).
                 </p>
                 <p className='flow-text'>
                   I have 2 grown children, Matthew & Nathan with my lovely wife
@@ -49,11 +56,13 @@ const homecard = () => {
               </div>
               <div className='card-action'>
                 <a href='https://www.linkedin.com/in/justin-sykes-csm-cspo-36819658/'>
-                  Linked IN
+                  <FontAwesomeIcon icon={faLinkedin} />
                 </a>
-                <a href='https://github.com/204039643'>Github</a>
-                <a href='https://docs.google.com/document/d/1PZ16uxr2sGIrMMszYKknz9D2R-Q3Y4qD0JsLetXUahQ/edit?usp=sharing'>
-                  Resume
+                <a href='https://github.com/204039643'>
+                  <FontAwesomeIcon icon={faGithub} />
+                </a>
+                <a href='https://docs.google.com/document/d/1LMDlnRUDP7ibYb5_xwiYeFiaMEp1bDvi2qf2h4Dr8iY/edit?usp=sharing'>
+                  <FontAwesomeIcon icon={faGoogleDrive} />
                 </a>
               </div>
             </div>
