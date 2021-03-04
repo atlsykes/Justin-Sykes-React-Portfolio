@@ -1,6 +1,7 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faRocket } from '@fortawesome/free-solid-svg-icons'
 
 const portfoliocard = props => {
   return (
@@ -20,6 +21,9 @@ const portfoliocard = props => {
             <div className='card-action'>
               <a href={props.link}>
                 <FontAwesomeIcon icon={faGithub} />
+              </a>
+              <a href={props.deploy}>
+                <FontAwesomeIcon icon={faRocket} />
               </a>
             </div>
           </div>

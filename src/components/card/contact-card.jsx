@@ -12,7 +12,7 @@ const Contactcard = () => {
     <div>
       <div id='contact-form'>
         <div className='collection'>
-          <h1>Contact</h1>
+          <h2>Contact</h2>
         </div>
         <br />
         <div className='row'>

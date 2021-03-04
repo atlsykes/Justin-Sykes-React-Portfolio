@@ -1,4 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Ruthie&display=swap");
+
 a.brand-logo.center {
-  padding-left: 10px;
-  padding-right: 10px;
+  font-family: "Ruthie", cursive;
+  font-weight: bold;
+  font-size: 300%;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20%;
 }

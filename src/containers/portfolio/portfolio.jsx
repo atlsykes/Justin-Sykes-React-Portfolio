@@ -22,6 +22,7 @@ const portfolio = () => {
               image={STCC}
               description={projects[0].description}
               link={projects[0].link}
+              deploy={projects[0].deploy}
             />
           </div>
           <div className='col s4'>
@@ -31,6 +32,7 @@ const portfolio = () => {
               image={TrackFinder}
               description={projects[1].description}
               link={projects[1].link}
+              deploy={projects[1].deploy}
             />
           </div>
           <div className='col s4'>
@@ -40,6 +42,7 @@ const portfolio = () => {
               image={Insulterator}
               description={projects[2].description}
               link={projects[2].link}
+              deploy={projects[2].deploy}
             />
           </div>
         </div>
@@ -51,6 +54,7 @@ const portfolio = () => {
               image={WorkDayScheduler}
               description={projects[3].description}
               link={projects[3].link}
+              deploy={projects[3].deploy}
             />
           </div>
           <div className='col s4'>
@@ -60,6 +64,7 @@ const portfolio = () => {
               image={CodeQuiz}
               description={projects[4].description}
               link={projects[4].link}
+              deploy={projects[4].deploy}
             />
           </div>
           <div className='col s4'>
@@ -69,6 +74,7 @@ const portfolio = () => {
               image={WeatherDashboard}
               description={projects[5].description}
               link={projects[5].link}
+              deploy={projects[5].deploy}
             />
           </div>
           <div className='row'>
@@ -79,6 +85,7 @@ const portfolio = () => {
                 image={WorkoutTracker}
                 description={projects[6].description}
                 link={projects[6].link}
+                deploy={projects[6].deploy}
               />
             </div>
           </div>
