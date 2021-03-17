@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Justin-Sykes-React-Portfolio/static/css/main.c84986e8.chunk.css",
+    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.7a107f86.chunk.js",
+    "main.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.7a107f86.chunk.js.map",
+    "runtime-main.js": "/Justin-Sykes-React-Portfolio/static/js/runtime-main.dc1a59ae.js",
+    "runtime-main.js.map": "/Justin-Sykes-React-Portfolio/static/js/runtime-main.dc1a59ae.js.map",
+    "static/js/2.cb9b7945.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/2.cb9b7945.chunk.js",
+    "static/js/2.cb9b7945.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/2.cb9b7945.chunk.js.map",
+    "static/js/3.bd18def8.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/3.bd18def8.chunk.js",
+    "static/js/3.bd18def8.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/3.bd18def8.chunk.js.map",
+    "index.html": "/Justin-Sykes-React-Portfolio/index.html",
+    "static/css/main.c84986e8.chunk.css.map": "/Justin-Sykes-React-Portfolio/static/css/main.c84986e8.chunk.css.map",
+    "static/js/2.cb9b7945.chunk.js.LICENSE.txt": "/Justin-Sykes-React-Portfolio/static/js/2.cb9b7945.chunk.js.LICENSE.txt",
+    "static/media/IMG_1428_GC_2018.9416838d.png": "/Justin-Sykes-React-Portfolio/static/media/IMG_1428_GC_2018.9416838d.png",
+    "static/media/Insulterator9000-screenshot.4a571dc0.png": "/Justin-Sykes-React-Portfolio/static/media/Insulterator9000-screenshot.4a571dc0.png",
+    "static/media/JS-code-quiz-screenshot1.65cee605.png": "/Justin-Sykes-React-Portfolio/static/media/JS-code-quiz-screenshot1.65cee605.png",
+    "static/media/Mongo-fitness-tracker-app-screenshot1.6dd11cf3.png": "/Justin-Sykes-React-Portfolio/static/media/Mongo-fitness-tracker-app-screenshot1.6dd11cf3.png",
+    "static/media/Track-finder-screenshot.a28e1367.png": "/Justin-Sykes-React-Portfolio/static/media/Track-finder-screenshot.a28e1367.png",
+    "static/media/Weather-dashboard-screenshot.b1619909.png": "/Justin-Sykes-React-Portfolio/static/media/Weather-dashboard-screenshot.b1619909.png",
+    "static/media/index.css": "/Justin-Sykes-React-Portfolio/static/media/glitter-lights-spots-dots-background-2560x1440.9c6f93f6.jpg",
+    "static/media/my-work-day-scheduler-screenshot1.85f09350.png": "/Justin-Sykes-React-Portfolio/static/media/my-work-day-scheduler-screenshot1.85f09350.png",
+    "static/media/senior-travel-covid-care-app-screenshot1.3780b943.png": "/Justin-Sykes-React-Portfolio/static/media/senior-travel-covid-care-app-screenshot1.3780b943.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc1a59ae.js",
+    "static/js/2.cb9b7945.chunk.js",
+    "static/css/main.c84986e8.chunk.css",
+    "static/js/main.7a107f86.chunk.js"
+  ]
+}
