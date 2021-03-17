@@ -55,13 +55,25 @@ const homecard = () => {
                 </p>
               </div>
               <div className='card-action'>
-                <a href='https://www.linkedin.com/in/justin-sykes-csm-cspo-36819658/'>
+                <a
+                  href='https://www.linkedin.com/in/justin-sykes-csm-cspo-36819658/'
+                  target='_blank'
+                  rel='noreferrer'
+                >
                   <FontAwesomeIcon icon={faLinkedin} />
                 </a>
-                <a href='https://github.com/204039643'>
+                <a
+                  href='https://github.com/204039643'
+                  target='_blank'
+                  rel='noreferrer'
+                >
                   <FontAwesomeIcon icon={faGithub} />
                 </a>
-                <a href='https://docs.google.com/document/d/1LMDlnRUDP7ibYb5_xwiYeFiaMEp1bDvi2qf2h4Dr8iY/edit?usp=sharing'>
+                <a
+                  href='https://docs.google.com/document/d/1LMDlnRUDP7ibYb5_xwiYeFiaMEp1bDvi2qf2h4Dr8iY/edit?usp=sharing'
+                  target='_blank'
+                  rel='noreferrer'
+                >
                   <FontAwesomeIcon icon={faGoogleDrive} />
                 </a>
               </div>

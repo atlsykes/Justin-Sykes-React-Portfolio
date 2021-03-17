@@ -19,10 +19,10 @@ const portfoliocard = props => {
               <p>{props.description}</p>
             </div>
             <div className='card-action'>
-              <a href={props.link}>
+              <a href={props.link} target='_blank' rel='noreferrer'>
                 <FontAwesomeIcon icon={faGithub} />
               </a>
-              <a href={props.deploy}>
+              <a href={props.deploy} target='_blank' rel='noreferrer'>
                 <FontAwesomeIcon icon={faRocket} />
               </a>
             </div>
