@@ -1,12 +1,12 @@
-import React from 'react'
-import Contactcard from '../../components/card/contact-card'
+import React from "react";
+import Contactcard from "../../components/card/contact-card";
 
 const contact = () => {
   return (
     <div className="container z-depth-3">
-      <Contactcard/>
+      <Contactcard />
     </div>
-  )
-}
+  );
+};
 
-export default contact
+export default contact;

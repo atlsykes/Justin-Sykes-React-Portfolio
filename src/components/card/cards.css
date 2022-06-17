@@ -11,6 +11,7 @@ img {
   margin-top: 80px;
 }
 #contact-form {
-  margin-top: 20px;
-  background-color: transparent;
+  margin-top: 100px;
+  background-color: whitesmoke;
+  opacity: 0.8;
 }

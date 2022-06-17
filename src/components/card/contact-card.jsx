@@ -1,68 +1,73 @@
-import React from 'react'
+import React from "react";
 
 const Contactcard = () => {
-  //form action on submit
-  function submitForm (ev) {
-    alert(
-      'Your message has been sent.  Please allow 24-48 business hours for a response.'
-    )
-  }
-
   return (
     <div>
-      <div id='contact-form'>
-        <div className='collection'>
-          <h2>Contact</h2>
+      <div id="contact-form">
+        <div className="collection">
+          <h2>Contact Me</h2>
         </div>
         <br />
-        <div className='row'>
+        <div className="row">
           <form
-            className='col s12'
-            action='https://formspree.io/f/xaylkwgy'
-            method='POST'
+            className="col s12"
+            action="https://formspree.io/f/xaylkwgy"
+            method="POST"
+            id="contact-me"
           >
-            <h6>Full Name</h6>
-            <div className='input-field'>
-              <i className='material-icons prefix'>account_circle</i>
+            <span>
+              <h5>Full Name*</h5>
+            </span>
+            <div className="input-field">
+              <i className="material-icons prefix">account_circle</i>
               <input
-                id='fullname'
-                type='text'
-                className='validate'
-                name='full-name'
+                id="fullname"
+                type="text"
+                className="validate"
+                name="full-name"
                 required
               />
-              <h6>Email</h6>
-              <div className='input-field'>
-                <i className='material-icons prefix'>email</i>
+              <h5>Email*</h5>
+              <div className="input-field">
+                <i className="material-icons prefix">email</i>
                 <input
-                  id='icon_email'
-                  type='email'
-                  className='validate'
-                  name='email'
+                  id="icon_email"
+                  type="email"
+                  className="validate"
+                  name="email"
                   required
                 />
-                <h6>Message</h6>
-                <div className='input-field'>
-                  <i className='material-icons prefix'>mode_edit</i>
+                <h5>Message (optional)</h5>
+                <div className="input-field">
+                  <i className="material-icons prefix">mode_edit</i>
                   <textarea
-                    id='icon_prefix2'
-                    className='materialize-textarea'
-                    type='text'
-                    name='message'
+                    id="icon_prefix2"
+                    className="materialize-textarea"
+                    type="text"
+                    name="message"
                     required
+                    data-length="300"
                   ></textarea>
                   <br />
                   <br />
-                  <div className='submit-button'>
+                  <div className="buttons-div">
                     <button
-                      className='btn waves-effect waves-light'
-                      type='submit'
-                      name='action'
-                      value='Send'
-                      onClick={submitForm}
+                      className="btn waves-effect waves-light btn-large"
+                      type="submit"
+                      name="action"
+                      value="Send"
                     >
                       Submit
-                      <i className='material-icons right'>send</i>
+                      <i className="material-icons right">send</i>
+                    </button>
+                    <button
+                      id="reset-button"
+                      className="btn waves-effect waves-light btn-large red accent-4"
+                      onClick={() => {
+                        document.getElementById("contact-me").reset();
+                      }}
+                    >
+                      Reset
                     </button>
                   </div>
                 </div>
@@ -72,7 +77,7 @@ const Contactcard = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Contactcard
+export default Contactcard;
