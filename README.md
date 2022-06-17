@@ -15,7 +15,7 @@ React web application that displays my profile and 6 modern web apps in a portfo
     
 ## Installation
     
-1. Access main branch at my github repo and clone to your local folder to install app: https://github.com/204039643/Justin-Sykes-React-Portfolio
+1. Access main branch at my github repo and clone to your local folder to install app: https://github.com/atlsykes/Justin-Sykes-React-Portfolio
 2. Navigate to app. folder on local and run 'NPM INSTALL' in the CLI.
 3. I used gh-pages to publish to cloud hosting site. To do so, update package.json "homepage:" key value to point to your new published app URL using the format> http://yourgithubid.github.io/yourappname".
 4. Switch to 'master' branch for github pages.
@@ -30,7 +30,7 @@ React web application that displays my profile and 6 modern web apps in a portfo
     
 ## Usage
     
-1. Access app. using your favorite browser (hosted in gh-pages): https://204039643.github.io/Justin-Sykes-React-Portfolio
+1. Access app. using your favorite browser (hosted in gh-pages): https://atlsykes.github.io/Justin-Sykes-React-Portfolio/#/portfolio
 2. 3 views are available: About Me, Portfolio, Contact
 - About Me will display myu personal information with links to provided to my github profile, LinkedIn profile, and my resume in Google Docs.
 - Portfolio contains a card view of 6 projects that I have completed during a FS boot camp. Links to individuals repo's are provided.
@@ -73,7 +73,7 @@ None
     
 ## Questions?
 Please reach out to me at either of the following:
-GitHub username: 204039643
+GitHub username: atlsykes
 Email: atlsykes1@att.net
     
     
