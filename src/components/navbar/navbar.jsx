@@ -13,7 +13,10 @@ const Navbar = () => {
     <div>
       <nav className="nav-extended">
         <div className="nav-wrapper light-blue lighten-3">
-          <a href="/#" className="brand-logo center">
+          <a
+            href="/Justin-Sykes-React-Portfolio/#/home"
+            className="brand-logo center"
+          >
             Justin A. Sykes
           </a>
           <a href="/" data-target="mobile-two" className="sidenav-trigger">
