@@ -1,98 +1,92 @@
-import React from 'react'
-import Portfoliocard from '../../components/card/portfolio-card'
-import projects from '../../projects.json'
-import TrackFinder from '../../Assets/Images/Track-finder-screenshot.png'
-import CodeQuiz from '../../Assets/Images/JS-code-quiz-screenshot1.png'
-import WorkDayScheduler from '../../Assets/Images/my-work-day-scheduler-screenshot1.png'
-import STCC from '../../Assets/Images/senior-travel-covid-care-app-screenshot1.png'
-import WeatherDashboard from '../../Assets/Images/Weather-dashboard-screenshot.png'
-import Insulterator from '../../Assets/Images/Insulterator9000-screenshot.png'
-import WorkoutTracker from '../../Assets/Images/Mongo-fitness-tracker-app-screenshot1.png'
-import './portfolio.css'
+import React from "react";
+import Portfoliocard from "../../components/card/portfolio-card";
+import projects from "../../projects.json";
+import "./portfolio.css";
+//project images
+import TrackFinder from "../../Assets/Images/Track-finder-screenshot.png";
+import STCC from "../../Assets/Images/senior-travel-covid-care-app-screenshot1.png";
+import WeatherDashboard from "../../Assets/Images/Weather-dashboard-screenshot.png";
+import Insulterator from "../../Assets/Images/Insulterator9000-screenshot.png";
+import WorkoutTracker from "../../Assets/Images/Mongo-fitness-tracker-app-screenshot1.png";
+import Flashcardz from "../../Assets/Images/Flashcardz-screenshot.png";
+const project = projects.elements;
 
 const portfolio = () => {
   return (
     <div>
-      <div className='container' id='port-container'>
-        <div className='row'>
-          <div className='col s4'>
-            <Portfoliocard
-              key={projects[0].id}
-              title={projects[0].title}
-              image={STCC}
-              description={projects[0].description}
-              link={projects[0].link}
-              deploy={projects[0].deploy}
-            />
-          </div>
-          <div className='col s4'>
-            <Portfoliocard
-              key={projects[1].id}
-              title={projects[1].title}
-              image={TrackFinder}
-              description={projects[1].description}
-              link={projects[1].link}
-              deploy={projects[1].deploy}
-            />
-          </div>
-          <div className='col s4'>
-            <Portfoliocard
-              key={projects[2].id}
-              title={projects[2].title}
-              image={Insulterator}
-              description={projects[2].description}
-              link={projects[2].link}
-              deploy={projects[2].deploy}
-            />
+      <div className="container">
+        <div className="row">
+          <div className="col s12 m6">
+            <div id="AM-title-block" className="z-depth-5">
+              <h2>Portfolio</h2>
+            </div>
           </div>
         </div>
-        <div className='row'>
-          <div className='col s4'>
+        <div className="row">
+          <div className="col m4">
             <Portfoliocard
-              key={projects[3].id}
-              title={projects[3].title}
-              image={WorkDayScheduler}
-              description={projects[3].description}
-              link={projects[3].link}
-              deploy={projects[3].deploy}
+              id={project[0].id}
+              image={Insulterator}
+              title={project[0].title}
+              description={project[0].description}
+              GH={project[0].GH}
+              deploy={project[0].deploy}
             />
           </div>
-          <div className='col s4'>
+          <div className="col m4">
             <Portfoliocard
-              key={projects[4].id}
-              title={projects[4].title}
-              image={CodeQuiz}
-              description={projects[4].description}
-              link={projects[4].link}
-              deploy={projects[4].deploy}
+              id={project[1].id}
+              image={Flashcardz}
+              title={project[1].title}
+              description={project[1].description}
+              GH={project[1].GH}
+              deploy={project[1].deploy}
             />
           </div>
-          <div className='col s4'>
+          <div className="col m4">
             <Portfoliocard
-              key={projects[5].id}
-              title={projects[5].title}
+              id={project[2].id}
+              image={TrackFinder}
+              title={project[2].title}
+              description={project[2].description}
+              GH={project[2].GH}
+              deploy={project[2].deploy}
+            />
+          </div>
+          <div className="col m4">
+            <Portfoliocard
+              id={project[3].id}
+              image={STCC}
+              title={project[3].title}
+              description={project[3].description}
+              GH={project[3].GH}
+              deploy={project[3].deploy}
+            />
+          </div>
+          <div className="col m4">
+            <Portfoliocard
+              id={project[4].id}
               image={WeatherDashboard}
-              description={projects[5].description}
-              link={projects[5].link}
-              deploy={projects[5].deploy}
+              title={project[4].title}
+              description={project[4].description}
+              GH={project[4].GH}
+              deploy={project[4].deploy}
             />
           </div>
-          <div className='row'>
-            <div className='col s4'>
-              <Portfoliocard
-                key={projects[6].id}
-                title={projects[6].title}
-                image={WorkoutTracker}
-                description={projects[6].description}
-                link={projects[6].link}
-                deploy={projects[6].deploy}
-              />
-            </div>
+          <div className="col m4">
+            <Portfoliocard
+              id={project[5].id}
+              image={WorkoutTracker}
+              title={project[5].title}
+              description={project[5].description}
+              GH={project[5].GH}
+              deploy={project[5].deploy}
+            />
           </div>
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default portfolio
+export default portfolio;
