@@ -6,9 +6,9 @@ import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 const homecard = () => {
   return (
-    <div className="container">
+    <div>
       <div className="row">
-        <div className="col s12 m6">
+        <div>
           <div id="AM-title-block" className="z-depth-5">
             <h2>About Me</h2>
           </div>

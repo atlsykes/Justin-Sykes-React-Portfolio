@@ -14,10 +14,10 @@ const project = projects.elements;
 const portfolio = () => {
   return (
     <div>
-      <div className="container">
+      <div>
         <div className="row">
-          <div className="col s12 m6">
-            <div id="AM-title-block" className="z-depth-5">
+          <div>
+            <div id="Port-title-block" className="z-depth-5">
               <h2>Portfolio</h2>
             </div>
           </div>
