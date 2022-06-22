@@ -32,7 +32,7 @@ React web application that displays my profile and 6 modern web apps in a portfo
 
 ## Usage
 
-1. Access app. using your favorite browser (hosted in gh-pages): https://atlsykes.github.io/Justin-Sykes-React-Portfolio/#/portfolio
+1. Access app. using your favorite browser (hosted in gh-pages): https://atlsykes.github.io/Justin-Sykes-React-Portfolio/#
 2. 3 views are available: About Me, Portfolio, Contact
 
 - About Me will display myu personal information with links to provided to my github profile, LinkedIn profile, and my resume in Google Docs.
