@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Justin-Sykes-React-Portfolio/static/css/main.9cd28ed4.css",
-    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.d8e16447.js",
+    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.0817c710.js",
     "static/js/377.3e5a2daf.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/377.3e5a2daf.chunk.js",
     "static/media/Insulterator9000-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Insulterator9000-screenshot.cdb2a544c087b89d8ee2.png",
     "static/media/Flashcardz-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Flashcardz-screenshot.bf05822cfc2ac1f8a655.png",
@@ -13,11 +13,11 @@
     "static/media/Track-finder-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Track-finder-screenshot.d8a802ddb5dd00cbd0a4.png",
     "index.html": "/Justin-Sykes-React-Portfolio/index.html",
     "main.9cd28ed4.css.map": "/Justin-Sykes-React-Portfolio/static/css/main.9cd28ed4.css.map",
-    "main.d8e16447.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.d8e16447.js.map",
+    "main.0817c710.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.0817c710.js.map",
     "377.3e5a2daf.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/377.3e5a2daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cd28ed4.css",
-    "static/js/main.d8e16447.js"
+    "static/js/main.0817c710.js"
   ]
 }
