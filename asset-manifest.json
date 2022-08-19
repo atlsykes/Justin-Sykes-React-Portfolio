@@ -1,30 +1,23 @@
 {
   "files": {
-    "main.css": "/Justin-Sykes-React-Portfolio/static/css/main.55e0e0e8.chunk.css",
-    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.eb38e406.chunk.js",
-    "main.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.eb38e406.chunk.js.map",
-    "runtime-main.js": "/Justin-Sykes-React-Portfolio/static/js/runtime-main.bfcae1f1.js",
-    "runtime-main.js.map": "/Justin-Sykes-React-Portfolio/static/js/runtime-main.bfcae1f1.js.map",
-    "static/js/2.d3256e53.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/2.d3256e53.chunk.js",
-    "static/js/2.d3256e53.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/2.d3256e53.chunk.js.map",
-    "static/js/3.4c1c4c67.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/3.4c1c4c67.chunk.js",
-    "static/js/3.4c1c4c67.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/3.4c1c4c67.chunk.js.map",
+    "main.css": "/Justin-Sykes-React-Portfolio/static/css/main.9cd28ed4.css",
+    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.d8e16447.js",
+    "static/js/377.3e5a2daf.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/377.3e5a2daf.chunk.js",
+    "static/media/Insulterator9000-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Insulterator9000-screenshot.cdb2a544c087b89d8ee2.png",
+    "static/media/Flashcardz-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Flashcardz-screenshot.bf05822cfc2ac1f8a655.png",
+    "static/media/IMG_1428_GC_2018.png": "/Justin-Sykes-React-Portfolio/static/media/IMG_1428_GC_2018.9416838d426254152cd8.png",
+    "static/media/senior-travel-covid-care-app-screenshot1.png": "/Justin-Sykes-React-Portfolio/static/media/senior-travel-covid-care-app-screenshot1.e4976fd7ff9d5f375765.png",
+    "static/media/LI-banner-i9000-code.png": "/Justin-Sykes-React-Portfolio/static/media/LI-banner-i9000-code.ead85ba4b6cd00993d54.png",
+    "static/media/Weather-dashboard-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Weather-dashboard-screenshot.33cadb4762efff41ff84.png",
+    "static/media/Mongo-fitness-tracker-app-screenshot1.png": "/Justin-Sykes-React-Portfolio/static/media/Mongo-fitness-tracker-app-screenshot1.ed97902b11587176e475.png",
+    "static/media/Track-finder-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Track-finder-screenshot.d8a802ddb5dd00cbd0a4.png",
     "index.html": "/Justin-Sykes-React-Portfolio/index.html",
-    "static/css/main.55e0e0e8.chunk.css.map": "/Justin-Sykes-React-Portfolio/static/css/main.55e0e0e8.chunk.css.map",
-    "static/js/2.d3256e53.chunk.js.LICENSE.txt": "/Justin-Sykes-React-Portfolio/static/js/2.d3256e53.chunk.js.LICENSE.txt",
-    "static/media/Flashcardz-screenshot.73785ee0.png": "/Justin-Sykes-React-Portfolio/static/media/Flashcardz-screenshot.73785ee0.png",
-    "static/media/IMG_1428_GC_2018.9416838d.png": "/Justin-Sykes-React-Portfolio/static/media/IMG_1428_GC_2018.9416838d.png",
-    "static/media/Insulterator9000-screenshot.4a571dc0.png": "/Justin-Sykes-React-Portfolio/static/media/Insulterator9000-screenshot.4a571dc0.png",
-    "static/media/Mongo-fitness-tracker-app-screenshot1.6dd11cf3.png": "/Justin-Sykes-React-Portfolio/static/media/Mongo-fitness-tracker-app-screenshot1.6dd11cf3.png",
-    "static/media/Track-finder-screenshot.a28e1367.png": "/Justin-Sykes-React-Portfolio/static/media/Track-finder-screenshot.a28e1367.png",
-    "static/media/Weather-dashboard-screenshot.b1619909.png": "/Justin-Sykes-React-Portfolio/static/media/Weather-dashboard-screenshot.b1619909.png",
-    "static/media/index.css": "/Justin-Sykes-React-Portfolio/static/media/glitter-lights-spots-dots-background-2560x1440.9c6f93f6.jpg",
-    "static/media/senior-travel-covid-care-app-screenshot1.3780b943.png": "/Justin-Sykes-React-Portfolio/static/media/senior-travel-covid-care-app-screenshot1.3780b943.png"
+    "main.9cd28ed4.css.map": "/Justin-Sykes-React-Portfolio/static/css/main.9cd28ed4.css.map",
+    "main.d8e16447.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.d8e16447.js.map",
+    "377.3e5a2daf.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/377.3e5a2daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfcae1f1.js",
-    "static/js/2.d3256e53.chunk.js",
-    "static/css/main.55e0e0e8.chunk.css",
-    "static/js/main.eb38e406.chunk.js"
+    "static/css/main.9cd28ed4.css",
+    "static/js/main.d8e16447.js"
   ]
 }
