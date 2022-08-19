@@ -39,13 +39,12 @@ const homecard = () => {
                 <br />
                 <p className="flow-text">
                   I have 2 grown children, Matthew & Nathan with my lovely wife
-                  Silvia, and we currently live in Marietta, GA. We've been
-                  living in Georgia for over 23 years and have grown very
-                  accustomed to the "southern lifestyle with a somewhat
-                  metropolitan feel" in Atlanta. With all the green space,
-                  southern hospitality, access to extensive outdoor activities
-                  year round, lower cost of living, northern GA feels like
-                  paradise to us.
+                  Silvia, and we currently reside in Mechanicsville, VA. We've
+                  just relocated after 25 years in Atlanta, GA and am settling
+                  in nicely to this suburb of Richmond. This unincorporated
+                  community with a population of ~37,000 is proving to be one of
+                  the nicest rural localities, along with close proximity to
+                  family, makes this is an idyllic location.
                 </p>
                 <br />
                 <p className="flow-text">
