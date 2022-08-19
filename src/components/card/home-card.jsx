@@ -26,17 +26,17 @@ const homecard = () => {
               />
               <div className="card-content">
                 <p className="flow-text">
-                  Mid-career digital minded professional with proven ability to
-                  match business goals with engineering and timed software value
-                  delivery. Self proclaimed Agilist leveraging the art of
-                  "Maximizing the amount of work not done" to enable high
-                  performing teams. I have a continuous growth mindset, always
-                  seeking to enhance my agile coaching skills and technical
-                  competency for modern software development. I've recently
-                  expanded my toolbox of software development skills via
-                  enrollment in the Georgia Tech Full-Stack Coding Boot Camp
-                  (MERN development stack).
+                  I am an Agile Methodologies Professional with over 12 years
+                  experience working with software development teams and over 20
+                  years IIOT power generation and solutions experience. I have
+                  expertise in new (software) product development, agile
+                  training and coaching, team building, collaborating, and
+                  demonstrating empathy. Additionally, my technical skill set
+                  includes full stack web development at a junior developer
+                  level. I have a reputation for being empathetic, supportive,
+                  flexible, articulate, and detail oriented.
                 </p>
+                <br />
                 <p className="flow-text">
                   I have 2 grown children, Matthew & Nathan with my lovely wife
                   Silvia, and we currently live in Marietta, GA. We've been
