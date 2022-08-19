@@ -5,7 +5,7 @@ const Contactcard = () => {
     <div>
       <div id="contact-form">
         <div className="collection">
-          <h2>Contact Me</h2>
+          <h2 style={{ color: "black" }}>Contact Me</h2>
         </div>
         <br />
         <div className="row">
