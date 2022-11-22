@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Justin-Sykes-React-Portfolio/static/css/main.9cd28ed4.css",
-    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.d8e16447.js",
+    "main.css": "/Justin-Sykes-React-Portfolio/static/css/main.41b8ee6d.css",
+    "main.js": "/Justin-Sykes-React-Portfolio/static/js/main.3ec72adc.js",
     "static/js/377.3e5a2daf.chunk.js": "/Justin-Sykes-React-Portfolio/static/js/377.3e5a2daf.chunk.js",
     "static/media/Insulterator9000-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Insulterator9000-screenshot.cdb2a544c087b89d8ee2.png",
     "static/media/Flashcardz-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Flashcardz-screenshot.bf05822cfc2ac1f8a655.png",
@@ -12,12 +12,12 @@
     "static/media/Mongo-fitness-tracker-app-screenshot1.png": "/Justin-Sykes-React-Portfolio/static/media/Mongo-fitness-tracker-app-screenshot1.ed97902b11587176e475.png",
     "static/media/Track-finder-screenshot.png": "/Justin-Sykes-React-Portfolio/static/media/Track-finder-screenshot.d8a802ddb5dd00cbd0a4.png",
     "index.html": "/Justin-Sykes-React-Portfolio/index.html",
-    "main.9cd28ed4.css.map": "/Justin-Sykes-React-Portfolio/static/css/main.9cd28ed4.css.map",
-    "main.d8e16447.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.d8e16447.js.map",
+    "main.41b8ee6d.css.map": "/Justin-Sykes-React-Portfolio/static/css/main.41b8ee6d.css.map",
+    "main.3ec72adc.js.map": "/Justin-Sykes-React-Portfolio/static/js/main.3ec72adc.js.map",
     "377.3e5a2daf.chunk.js.map": "/Justin-Sykes-React-Portfolio/static/js/377.3e5a2daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cd28ed4.css",
-    "static/js/main.d8e16447.js"
+    "static/css/main.41b8ee6d.css",
+    "static/js/main.3ec72adc.js"
   ]
 }
