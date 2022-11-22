@@ -30,7 +30,7 @@ const Navbar = () => {
             </li>
             <li>
               <NavLink to="/home" className="nav-link" activeClassName="active">
-                About Me
+                About
               </NavLink>
             </li>
             <li>
