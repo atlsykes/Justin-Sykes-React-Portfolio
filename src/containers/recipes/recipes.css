@@ -1,0 +1,22 @@
+.container {
+  text-align: center;
+  background-color: whitesmoke;
+  opacity: 0.9;
+  color: black;
+  margin: 3%;
+}
+
+a {
+  margin: 1%;
+}
+
+ol {
+  text-align: left;
+  margin-left: 2%;
+}
+
+ul {
+  text-align: left;
+  margin-left: 30%;
+  font-weight: bolder;
+}
