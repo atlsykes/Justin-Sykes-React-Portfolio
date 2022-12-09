@@ -43,15 +43,6 @@ const Recipes = () => {
             >
               Buttermilk Pancakes
             </a>
-            <a
-              className="waves-effect waves-light btn"
-              onClick={() => {
-                setRecipeID(3);
-                rid = 3;
-              }}
-            >
-              Scones
-            </a>
           </div>
         </div>
       </div>
@@ -68,10 +59,42 @@ const Recipes = () => {
             >
               Party Wings
             </a>
-            <a className="waves-effect waves-light btn">Carnitas</a>
-            <a className="waves-effect waves-light btn">Chicken Broth</a>
-            <a className="waves-effect waves-light btn">Ribs</a>
-            <a className="waves-effect waves-light btn">Chicha Morada</a>
+            <a
+              className="waves-effect waves-light btn"
+              onClick={() => {
+                setRecipeID(5);
+                rid = 5;
+              }}
+            >
+              Carnitas
+            </a>
+            <a
+              className="waves-effect waves-light btn"
+              onClick={() => {
+                setRecipeID(6);
+                rid = 6;
+              }}
+            >
+              Chicken Stock
+            </a>
+            <a
+              className="waves-effect waves-light btn"
+              onClick={() => {
+                setRecipeID(7);
+                rid = 7;
+              }}
+            >
+              Ribs
+            </a>
+            <a
+              className="waves-effect waves-light btn"
+              onClick={() => {
+                setRecipeID(8);
+                rid = 8;
+              }}
+            >
+              Chicha Morada
+            </a>
           </div>
         </div>
       </div>
