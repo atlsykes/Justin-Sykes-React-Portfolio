@@ -8,6 +8,14 @@ let rid = 0;
 const Recipes = () => {
   const [recipeID, setRecipeID] = useState();
 
+  //reset all checkboxes upon new recipe selection
+  const resetCheck = () => {
+    let inputs = document.getElementsByClassName("checkbox");
+    for (let i = 0; i < inputs.length; i++) {
+      inputs[i].checked = false;
+    }
+  };
+
   return (
     <div>
       <br />
@@ -21,6 +29,7 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(0);
                 rid = 0;
+                resetCheck();
               }}
             >
               Blueberry Pancakes
@@ -30,6 +39,7 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(1);
                 rid = 1;
+                resetCheck();
               }}
             >
               Buttermilk Biscuits
@@ -39,9 +49,20 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(2);
                 rid = 2;
+                resetCheck();
               }}
             >
               Buttermilk Pancakes
+            </a>
+            <a
+              className="waves-effect waves-light btn"
+              onClick={() => {
+                setRecipeID(3);
+                rid = 3;
+                resetCheck();
+              }}
+            >
+              Waffles
             </a>
           </div>
         </div>
@@ -55,6 +76,7 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(4);
                 rid = 4;
+                resetCheck();
               }}
             >
               Party Wings
@@ -64,6 +86,7 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(5);
                 rid = 5;
+                resetCheck();
               }}
             >
               Carnitas
@@ -73,6 +96,7 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(6);
                 rid = 6;
+                resetCheck();
               }}
             >
               Chicken Stock
@@ -82,6 +106,7 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(7);
                 rid = 7;
+                resetCheck();
               }}
             >
               Ribs
@@ -91,6 +116,7 @@ const Recipes = () => {
               onClick={() => {
                 setRecipeID(8);
                 rid = 8;
+                resetCheck();
               }}
             >
               Chicha Morada

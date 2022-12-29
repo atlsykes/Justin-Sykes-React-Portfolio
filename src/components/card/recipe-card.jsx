@@ -12,7 +12,7 @@ const recipeCard = (props) => {
             {props.ingredients.map((item) => (
               <li key={item.iid}>
                 <label>
-                  <input type="checkbox" />
+                  <input type="checkbox" className="checkbox" />
                   <span>{item.text}</span>
                 </label>
               </li>

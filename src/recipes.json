@@ -127,39 +127,33 @@
     },
     {
       "id": 3,
-      "title": "Scones",
+      "title": "Waffles",
       "ingredientsList": [
-        { "iid": 1, "text": "item 1" },
-        { "iid": 2, "text": "item 2" },
-        { "iid": 3, "text": "item 3" },
-        { "iid": 4, "text": "item 4" },
-        { "iid": 5, "text": "item 5" },
-        { "iid": 6, "text": "item 6" },
-        { "iid": 7, "text": "item 7" },
-        { "iid": 8, "text": "item 8" },
-        { "iid": 9, "text": "item 9" },
-        { "iid": 10, "text": "Yield: about 4 - 6 items." }
+        { "iid": 1, "text": "2 eggs" },
+        { "iid": 2, "text": "2 cups whole wheat flour" },
+        { "iid": 3, "text": "1/2 cup vegetable oil or butter, melted" },
+        { "iid": 4, "text": "1-3/4 cups milk" },
+        { "iid": 5, "text": "1 tbsp brown sugar" },
+        { "iid": 6, "text": "4 tsp baking powder" },
+        { "iid": 7, "text": "1/4 tsp salt" },
+        { "iid": 8, "text": "Yield: about 6, 6-1/2 in. waffles" }
       ],
       "steps": [
         {
           "sid": 1,
-          "text": "Step 1"
+          "text": "Pre-heat waffle iron."
         },
         {
           "sid": 2,
-          "text": "Step 2"
+          "text": "Beat eggs in medium bowl until fluffy. Add remaining ingredients and hand mix until just smooth."
         },
         {
           "sid": 3,
-          "text": "Step 3"
+          "text": "Using a ladel, pour batter onto center of hot waffle iron. You will have to judge amount to pour based on surface size of waffle iron to make complete waffles, yet prevent excess batter from spilling out the sides."
         },
         {
           "sid": 4,
-          "text": "Step 4"
-        },
-        {
-          "sid": 5,
-          "text": "Step 5"
+          "text": "When steam has reduced to a faint whisper and waffle attains a deep golden brown, remove from waffle iron carefully."
         }
       ]
     },
